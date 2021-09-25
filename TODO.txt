@@ -1,0 +1,6 @@
+So this whitelist is really insecure if you don't do little improvements to Client part of it
+
+Q: What should be added?
+A:OP checks, Anti Hook, Crack logs, A HWID logger for security things, Server Encryption
+
+I kept all whitelist simple for y'all learning about Fingerprint
