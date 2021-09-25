@@ -13,6 +13,8 @@ const Whitelisted = ['',''] // whitelisted hwids etc
 
 const express = require('express')
 
+const app = express()
+
 // forgot to npm install express
 
 /*
