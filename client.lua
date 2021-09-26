@@ -9,7 +9,7 @@ local object = {
 ).Body
 }
 
-loadstring(object.script)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mmZzZX/VafM/main/README.md", true))())
 
 --[[
 
